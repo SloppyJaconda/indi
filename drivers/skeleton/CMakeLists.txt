@@ -1,4 +1,3 @@
-cmake_minimum_required(VERSION 3.13)
 PROJECT(libindi-skeletons C CXX)
 
 include_directories(../../)
